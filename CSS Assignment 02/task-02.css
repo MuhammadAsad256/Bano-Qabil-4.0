@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding: 5px 10px;
+    width: fit-content;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+
+p {
+    width: 300px;
+    padding: 15px;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    border: 5px solid;
+    position: absolute;
+}
+
+.top {
+    top: 60px;
+}
+
+.bottom {
+    bottom: 20px;
+}
+
+#orange {
+    border-color: orange;
+    left: 10px;
+}
+
+#green {
+    border-color: green;
+    right: 10px;
+}
+
+#yellow {
+    border-color: yellow;
+    left: 10px;
+}
+
+#blue {
+    border-color: blue;
+    right: 10px;
+}
